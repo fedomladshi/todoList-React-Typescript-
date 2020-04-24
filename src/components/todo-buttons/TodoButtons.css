@@ -1,0 +1,7 @@
+.btn-group {
+    display: flex;
+    align-items: center;
+}
+.active {
+    background-color: #6c757d;
+}
